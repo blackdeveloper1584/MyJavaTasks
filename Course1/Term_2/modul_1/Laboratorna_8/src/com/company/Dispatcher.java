@@ -8,6 +8,7 @@ public class Dispatcher {
 
     public static void main(String[] args) {
         Scanner scan= new Scanner(System.in);
+        
         Pattern p = Pattern.compile(scan.nextLine());
         Matcher m = p.matcher(scan.nextLine());
         while (m.find()){
