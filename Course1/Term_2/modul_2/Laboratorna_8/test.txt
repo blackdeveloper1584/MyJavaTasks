@@ -1,7 +1,0 @@
-Name: Taras
-Second name: Andreiko
-Gender: male
-Date of birth: 04-01-06
-Language: Java
-Language: Python
-Status: Junoir
